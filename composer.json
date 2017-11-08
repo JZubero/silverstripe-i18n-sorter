@@ -1,5 +1,7 @@
 {
   "name": "jzubero/silverstripe-i18n-sorter",
+  "version": "0.1.0",
+  "time": "2017-11-08",
   "description": "Sorts your messy i18n YAML files :repeat:",
   "type": "silverstripe-module",
   "license": "MIT",
