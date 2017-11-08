@@ -1,0 +1,19 @@
+{
+  "name": "jzubero/silverstripe-i18n-sorter",
+  "description": "Sorts your messy i18n YAML files :repeat:",
+  "type": "silverstripe-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julian Scheuchenzuber",
+      "email": "js@lvl51.de"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "silverstripe/framework": "~3"
+  },
+  "extra": {
+    "installer-name": "i18n-sorter"
+  }
+}
